@@ -1,0 +1,9 @@
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Taks1-TestClass\bin\Debug\Taks1-TestClass.exe.config
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Taks1-TestClass\bin\Debug\Taks1-TestClass.exe
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Taks1-TestClass\bin\Debug\Taks1-TestClass.pdb
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Taks1-TestClass\obj\Debug\Taks1-TestClass.csprojResolveAssemblyReference.cache
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Taks1-TestClass\obj\Debug\Taks1-TestClass.exe
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Taks1-TestClass\obj\Debug\Taks1-TestClass.pdb
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Taks1-TestClass\bin\Debug\Taks1-TestClass.exe.config
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Taks1-TestClass\obj\Debug\Taks1-TestClass.exe
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Taks1-TestClass\obj\Debug\Taks1-TestClass.pdb

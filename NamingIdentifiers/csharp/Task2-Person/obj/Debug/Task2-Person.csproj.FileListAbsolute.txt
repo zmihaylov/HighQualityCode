@@ -1,0 +1,6 @@
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Task2-Person\bin\Debug\Task2-Person.exe.config
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Task2-Person\bin\Debug\Task2-Person.exe
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Task2-Person\bin\Debug\Task2-Person.pdb
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Task2-Person\obj\Debug\Task2-Person.exe
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Task2-Person\obj\Debug\Task2-Person.pdb
+C:\Users\Zlatimir\Downloads\03. Naming Identifiers\Homework\Task2-Person\obj\Debug\Task2-Person.csprojResolveAssemblyReference.cache
