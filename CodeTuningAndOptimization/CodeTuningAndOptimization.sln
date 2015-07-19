@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem", "SolarSystem\SolarSystem.csproj", "{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleOperationsPerformance", "SimpleOperationsPerformance\SimpleOperationsPerformance.csproj", "{D2B46DF3-D22D-4C0E-BDB4-9343D390C2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedOperationsPerformance", "AdvancedOperationsPerformance\AdvancedOperationsPerformance.csproj", "{FF9DFB3E-DEE3-4162-B3DF-4EB9E7095BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingMethodsPerformance", "SortingMethodsPerformance\SortingMethodsPerformance.csproj", "{61EE2989-DBEA-4679-888B-B66F1CEDC7C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B1A3C0F-333E-41D9-B30E-968FF2244FE4}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+		Performance3.psess = Performance3.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B46DF3-D22D-4C0E-BDB4-9343D390C2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B46DF3-D22D-4C0E-BDB4-9343D390C2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B46DF3-D22D-4C0E-BDB4-9343D390C2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B46DF3-D22D-4C0E-BDB4-9343D390C2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9DFB3E-DEE3-4162-B3DF-4EB9E7095BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9DFB3E-DEE3-4162-B3DF-4EB9E7095BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9DFB3E-DEE3-4162-B3DF-4EB9E7095BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9DFB3E-DEE3-4162-B3DF-4EB9E7095BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61EE2989-DBEA-4679-888B-B66F1CEDC7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EE2989-DBEA-4679-888B-B66F1CEDC7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EE2989-DBEA-4679-888B-B66F1CEDC7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EE2989-DBEA-4679-888B-B66F1CEDC7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
