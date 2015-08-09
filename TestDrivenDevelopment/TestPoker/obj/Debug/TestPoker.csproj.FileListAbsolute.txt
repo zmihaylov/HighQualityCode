@@ -1,0 +1,7 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\HighQualityCode\TestDrivenDevelopment\TestPoker\bin\Debug\TestPoker.dll
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\HighQualityCode\TestDrivenDevelopment\TestPoker\bin\Debug\TestPoker.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\HighQualityCode\TestDrivenDevelopment\TestPoker\bin\Debug\Poker.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\HighQualityCode\TestDrivenDevelopment\TestPoker\bin\Debug\Poker.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\HighQualityCode\TestDrivenDevelopment\TestPoker\obj\Debug\TestPoker.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\HighQualityCode\TestDrivenDevelopment\TestPoker\obj\Debug\TestPoker.dll
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\HighQualityCode\TestDrivenDevelopment\TestPoker\obj\Debug\TestPoker.pdb
